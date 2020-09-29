@@ -10,3 +10,12 @@
 - 💬 Ask me about Anything You Want !
 - 📫 How to reach me: Message Me On Twitter !
 - ⚡ Fun fact: Love to Eat !
+
+### Connect with me:
+
+[<img align="left" alt="shivamrai2003.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](shivamrai2003.github.io)
+[<img align="left" alt="SHIVAM RAI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4rMye-fbZtLe1Z3kcWSIAg)
+[<img align="left" alt="ShivamR44888706 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShivamR44888706)
+[<img align="left" alt="shivam-rai-59611a157 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shivam-rai-59611a157)
+
+<br />
