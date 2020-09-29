@@ -19,3 +19,10 @@
 [<img align="left" alt="shivam-rai-59611a157 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shivam-rai-59611a157)
 
 <br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Shivam Rai Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShivamRai2003&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+</details>
