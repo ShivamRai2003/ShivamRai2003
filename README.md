@@ -19,6 +19,7 @@
 [<img align="left" alt="shivam-rai-59611a157 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shivam-rai-59611a157)
 
 <br />
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
