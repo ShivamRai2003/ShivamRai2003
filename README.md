@@ -1,8 +1,7 @@
 ### Hi there I'm [Shivam Rai](https://shivamrai2003.github.io/) 👋
 
 [![Website](https://img.shields.io/website?label=shivamrai2003.github.io&style=for-the-badge&url=https://shivamrai2003.github.io/)](https://shivamrai2003.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shivam24rai
-?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ShivamR44888706)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shivam24rai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shivam24rai)
 
 ## I am Cyber Security Enthusiast  | Network Specialist  | School Student!
 
@@ -16,7 +15,7 @@
 
 [<img align="left" alt="shivamrai2003.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](shivamrai2003.github.io)
 [<img align="left" alt="SHIVAM RAI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4rMye-fbZtLe1Z3kcWSIAg)
-[<img align="left" alt="ShivamR44888706 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShivamR44888706)
+[<img align="left" alt="ShivamR44888706 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shivam24rai)
 [<img align="left" alt="shivam-rai-59611a157 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shivam-rai-59611a157)
 
 <br />
