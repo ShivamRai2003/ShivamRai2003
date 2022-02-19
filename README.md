@@ -11,6 +11,7 @@
 - 💬 Ask me about Anything You Want !
 - 📫 How to reach me: Message Me On Twitter !
 - ⚡ Fun fact: Love to Eat !
+- 😎 Special Skills: Critical Thinking , Collabortion , Listening , Leadership skills !
 
 ### Connect with me:
 
